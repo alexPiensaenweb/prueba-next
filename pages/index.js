@@ -22,7 +22,7 @@ export default function Home() {
       </main> 
 
       <footer className={styles.footer}>
-     Desarrollado por Piensaenweb
+        <span>Desarrollado por Piensaenweb</span> 
       </footer>
     </div>
   )
