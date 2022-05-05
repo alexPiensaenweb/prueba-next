@@ -16,7 +16,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
         
-      <div>Esto es una prueba</div>
+      <div style="margin-top:20px; padding:10px; background-color:#323648; color:#fff;">Esto es una prueba</div>
       <a href="https://piensaenweb.com">Haz clic aquí</a>
 
       </main> 
