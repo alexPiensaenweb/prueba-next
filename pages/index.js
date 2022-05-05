@@ -17,6 +17,7 @@ export default function Home() {
         </h1>
         
       <div>Esto es una prueba</div>
+      <a href="https://piensaenweb.com">Haz clic aquí</a>
 
       </main> 
 
