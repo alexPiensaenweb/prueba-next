@@ -2,6 +2,13 @@
   padding: 0 2rem;
 }
 
+.boton {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #323648;
+  color: #fff;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
